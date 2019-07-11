@@ -2,6 +2,6 @@
 {
     public enum TransformationEngineTypeEnum
     {
-        OECD
+        OECD,
     }
 }

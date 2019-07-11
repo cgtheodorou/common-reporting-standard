@@ -3,7 +3,7 @@ using CRS.Implementation.OECD;
 
 namespace CRS.Implementation.Common
 {
-    class CommonConversions
+    internal static class CommonConversions
     {
         public static CrsMessageTypeIndic_EnumType ConvertToMessageTypeIndicator(string val)
         {
